@@ -1,0 +1,15 @@
+C:\DotNet\ProdutosEmEstoque\ProdutosEmEstoque\bin\Debug\net6.0\ProdutosEmEstoque.exe
+C:\DotNet\ProdutosEmEstoque\ProdutosEmEstoque\bin\Debug\net6.0\ProdutosEmEstoque.deps.json
+C:\DotNet\ProdutosEmEstoque\ProdutosEmEstoque\bin\Debug\net6.0\ProdutosEmEstoque.runtimeconfig.json
+C:\DotNet\ProdutosEmEstoque\ProdutosEmEstoque\bin\Debug\net6.0\ProdutosEmEstoque.dll
+C:\DotNet\ProdutosEmEstoque\ProdutosEmEstoque\bin\Debug\net6.0\ProdutosEmEstoque.pdb
+C:\DotNet\ProdutosEmEstoque\ProdutosEmEstoque\obj\Debug\net6.0\ProdutosEmEstoque.csproj.AssemblyReference.cache
+C:\DotNet\ProdutosEmEstoque\ProdutosEmEstoque\obj\Debug\net6.0\ProdutosEmEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNet\ProdutosEmEstoque\ProdutosEmEstoque\obj\Debug\net6.0\ProdutosEmEstoque.AssemblyInfoInputs.cache
+C:\DotNet\ProdutosEmEstoque\ProdutosEmEstoque\obj\Debug\net6.0\ProdutosEmEstoque.AssemblyInfo.cs
+C:\DotNet\ProdutosEmEstoque\ProdutosEmEstoque\obj\Debug\net6.0\ProdutosEmEstoque.csproj.CoreCompileInputs.cache
+C:\DotNet\ProdutosEmEstoque\ProdutosEmEstoque\obj\Debug\net6.0\ProdutosEmEstoque.dll
+C:\DotNet\ProdutosEmEstoque\ProdutosEmEstoque\obj\Debug\net6.0\refint\ProdutosEmEstoque.dll
+C:\DotNet\ProdutosEmEstoque\ProdutosEmEstoque\obj\Debug\net6.0\ProdutosEmEstoque.pdb
+C:\DotNet\ProdutosEmEstoque\ProdutosEmEstoque\obj\Debug\net6.0\ProdutosEmEstoque.genruntimeconfig.cache
+C:\DotNet\ProdutosEmEstoque\ProdutosEmEstoque\obj\Debug\net6.0\ref\ProdutosEmEstoque.dll
