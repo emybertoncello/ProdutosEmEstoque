@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DotNet\\ProdutosEmEstoque\\ProdutosEmEstoque\\ProdutosEmEstoque.csproj": {}
+    "C:\\Users\\emybe\\Source\\Repos\\ProdutosEmEstoque\\ProdutosEmEstoque\\ProdutosEmEstoque\\ProdutosEmEstoque.csproj": {}
   },
   "projects": {
-    "C:\\DotNet\\ProdutosEmEstoque\\ProdutosEmEstoque\\ProdutosEmEstoque.csproj": {
+    "C:\\Users\\emybe\\Source\\Repos\\ProdutosEmEstoque\\ProdutosEmEstoque\\ProdutosEmEstoque\\ProdutosEmEstoque.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DotNet\\ProdutosEmEstoque\\ProdutosEmEstoque\\ProdutosEmEstoque.csproj",
+        "projectUniqueName": "C:\\Users\\emybe\\Source\\Repos\\ProdutosEmEstoque\\ProdutosEmEstoque\\ProdutosEmEstoque\\ProdutosEmEstoque.csproj",
         "projectName": "ProdutosEmEstoque",
-        "projectPath": "C:\\DotNet\\ProdutosEmEstoque\\ProdutosEmEstoque\\ProdutosEmEstoque.csproj",
+        "projectPath": "C:\\Users\\emybe\\Source\\Repos\\ProdutosEmEstoque\\ProdutosEmEstoque\\ProdutosEmEstoque\\ProdutosEmEstoque.csproj",
         "packagesPath": "C:\\Users\\emybe\\.nuget\\packages\\",
-        "outputPath": "C:\\DotNet\\ProdutosEmEstoque\\ProdutosEmEstoque\\obj\\",
+        "outputPath": "C:\\Users\\emybe\\Source\\Repos\\ProdutosEmEstoque\\ProdutosEmEstoque\\ProdutosEmEstoque\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\emybe\\AppData\\Roaming\\NuGet\\NuGet.Config",
